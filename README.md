@@ -1,2 +1,2 @@
 # html-css
-Repositório feito para estudar xD
+Repositório feito para acompanhamento de estudos <3
